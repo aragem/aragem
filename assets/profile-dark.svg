@@ -1,0 +1,14 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Serhiy — Software Engineer</title><desc id="desc">Minimal emerald developer profile banner</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#07110E"/><stop offset="1" stop-color="#0A1712"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(600 24) rotate(90) scale(270 590)" gradientUnits="userSpaceOnUse"><stop stop-color="#10B981" stop-opacity=".14"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#A7F3D0" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/><rect width="1200" height="320" rx="24" fill="url(#glow)"/><rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect x=".75" y=".75" width="1198.5" height="318.5" rx="23.25" stroke="#6EE7B7" stroke-opacity=".17" stroke-width="1.5"/>
+  <g transform="translate(600 72)"><circle r="8" fill="#34D399"/><circle r="8" stroke="#34D399" stroke-opacity=".35"><animate attributeName="r" values="8;17;8" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="2.8s" repeatCount="indefinite"/></circle></g>
+  <text x="600" y="170" text-anchor="middle" fill="#ECFDF5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="68" font-weight="650" letter-spacing="-2.5">Serhiy</text>
+  <text x="600" y="220" text-anchor="middle" fill="#6EE7B7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="4">SOFTWARE ENGINEER</text>
+  <path d="M500 258H700" stroke="#10B981" stroke-opacity=".45"/>
+</svg>

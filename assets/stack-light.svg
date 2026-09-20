@@ -1,0 +1,12 @@
+<svg width="1200" height="116" viewBox="0 0 1200 116" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Technology stack</title><rect width="1200" height="116" rx="20" fill="#F5FCF8"/><rect x=".75" y=".75" width="1198.5" height="114.5" rx="19.25" stroke="#059669" stroke-opacity=".17" stroke-width="1.5"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" text-anchor="middle" fill="#065F46">
+    <g><rect x="51" y="34" width="156" height="48" rx="12" fill="#10B981" fill-opacity=".07" stroke="#059669" stroke-opacity=".26"/><text x="129" y="64">TypeScript</text></g>
+    <g><rect x="225" y="34" width="131" height="48" rx="12" fill="#10B981" fill-opacity=".07" stroke="#059669" stroke-opacity=".26"/><text x="290.5" y="64">React</text></g>
+    <g><rect x="374" y="34" width="141" height="48" rx="12" fill="#10B981" fill-opacity=".07" stroke="#059669" stroke-opacity=".26"/><text x="444.5" y="64">Electron</text></g>
+    <g><rect x="533" y="34" width="143" height="48" rx="12" fill="#10B981" fill-opacity=".07" stroke="#059669" stroke-opacity=".26"/><text x="604.5" y="64">Node.js</text></g>
+    <g><rect x="694" y="34" width="105" height="48" rx="12" fill="#10B981" fill-opacity=".07" stroke="#059669" stroke-opacity=".26"/><text x="746.5" y="64">SQL</text></g>
+    <g><rect x="817" y="34" width="132" height="48" rx="12" fill="#10B981" fill-opacity=".07" stroke="#059669" stroke-opacity=".26"/><text x="883" y="64">Linux</text></g>
+    <g><rect x="967" y="34" width="182" height="48" rx="12" fill="#10B981" fill-opacity=".07" stroke="#059669" stroke-opacity=".26"/><text x="1058" y="64">React Native</text></g>
+  </g>
+</svg>
