@@ -22,15 +22,15 @@ Software engineer focused on systems that connect **web interfaces, desktop appl
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="34" alt="Vite" title="Vite">
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="34" alt="Tailwind CSS" title="Tailwind CSS">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="34" alt="Tailwind CSS" >
       <br><br>
       TypeScript · React<br>Vite · Tailwind
     </td>
     <td width="25%" valign="top">
       <strong>Runtime</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="34" alt="Node.js" title="Node.js">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="34" alt="Node.js" >
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="34" alt="Electron" title="Electron">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="34" alt="Electron" >
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="34" alt="Socket.IO" title="Socket.IO">
       &nbsp;
@@ -40,13 +40,13 @@ Software engineer focused on systems that connect **web interfaces, desktop appl
     </td>
     <td width="25%" valign="top">
       <strong>Data</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="34" alt="MySQL" title="MySQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="34" alt="MySQL">
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="34" alt="SQLite" title="SQLite">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="34" alt="SQLite" >
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="34" alt="PostgreSQL" title="PostgreSQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="34" alt="PostgreSQL" >
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="34" alt="Redis" title="Redis">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="34" alt="Redis">
       <br><br>
       MySQL · SQLite<br>PostgreSQL · Redis
     </td>
